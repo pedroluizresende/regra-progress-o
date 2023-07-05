@@ -8,6 +8,12 @@ Welcome to the Regra de Progressão Java project! This is the first project in t
 
 The "Regra de Progressão" project aims to calculate the average score obtained in a set of activities and determine whether the score meets the minimum requirement for approval. The project prompts the user to enter the number of activities to be registered, along with their names, weights, and corresponding scores. It then calculates the average score and provides feedback to the user based on the result.
 
+## Technologies Used
+
+- Java
+- Maven
+
+
 ## Getting Started
 
 To get started with the project, follow the instructions below:

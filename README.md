@@ -35,7 +35,7 @@ Make sure you have the following software installed on your machine:
 2. Navigate to the project directory:
 
    ```shell
-   cd java-026-java-projeto-regra-progressao
+   cd regra-progressao
 
 ### Usage
    
